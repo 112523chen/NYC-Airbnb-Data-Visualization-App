@@ -26,3 +26,8 @@ Pandas, Numpy, Matplotlib, and Streamlit
 ## Future Updates
 
 > To be determined
+
+## How to Run Locally
+- Download this repo and all packages mentioned in `requirements.txt`
+- Go to terminal/command line and run the following command:
+  `streamlit run app.py`
