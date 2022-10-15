@@ -6,16 +6,17 @@ import streamlit as st
 
 df = pd.read_csv("listings.csv")
 
-gb = df.groupby(['neighbourhood_group_cleansed','neighbourhood_cleansed'])
-
-st.set_page_config(
+st.set_page_config( # head tag
     page_title="NYC Airbnb Data Demo", 
-    page_icon="🏠",
-    layout="center",
+    page_icon="random",
+    layout="centered",
     initial_sidebar_state='auto',
     menu_items={
-        'Get Help': 'https://www.extremelycoolapp.com/help',
-        'Report a bug': "",
-        'About': "# This is a header. This is an *extremely* cool app!"
+        'Get Help': 'https://github.com/112523chen/NYC-Airbnb-Data-Visualization-App',
+        'Report a bug': "https://github.com/112523chen/NYC-Airbnb-Data-Visualization-App/issues/new",
+        'About': """
+                ***Streamlit app*** that visualizes New York City Airbnb listing data
+                """ #supports markdown
     })
+
 st.title("NYC Airbnb Listing Data") # H1 tag
