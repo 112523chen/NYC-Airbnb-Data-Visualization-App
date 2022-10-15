@@ -4,7 +4,7 @@
 
 ## Project Description
 
-Created a web app that shows insight on New York City Airbnb listings with visualizations
+Create a web app that shows insight on New York City Airbnb listings with visualizations
 
 ## Python Libaries Used
 
