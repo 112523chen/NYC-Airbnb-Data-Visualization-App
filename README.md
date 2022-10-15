@@ -2,11 +2,11 @@
 
 ## Project Description
 
-Created a web app that shows insight on New York City Airbnb Listings with visualizations
+Created a web app that shows insight on New York City Airbnb listings with visualizations
 
 ## Python Libaries Used
 
-Pandas, Numpy, Matplotlib, Seabron, and Streamlit
+Pandas, Numpy, Matplotlib, and Streamlit
 
 ## Data Source
 
