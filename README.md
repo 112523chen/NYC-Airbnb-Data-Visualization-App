@@ -1,5 +1,7 @@
 # NYC-Airbnb-Listing-Data-Visualization-App
 
+![Project Demo](demo.png)
+
 ## Project Description
 
 Created a web app that shows insight on New York City Airbnb Listings with visualizations
