@@ -16,7 +16,7 @@ Pandas, Numpy, Matplotlib, Seabron, and Streamlit
 ## File Directory
 - ### app.py 
   > Location of the code for the web app and visualizations
-- ### listings.csv.gz
+- ### listings.csv
   > Location of the the 09-07-22 data for NYC
 - ### requirements.txt
   > Text file with details on enviroment requirements for the web app
