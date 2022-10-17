@@ -4,7 +4,7 @@
 
 ## Project Description
 
-Created a web app that shows insight on New York City Airbnb listings with visualizations
+Create a web app that shows insight on New York City Airbnb listings with visualizations
 
 ## Python Libaries Used
 
@@ -26,3 +26,8 @@ Pandas, Numpy, Matplotlib, and Streamlit
 ## Future Updates
 
 > To be determined
+
+## How to Run Locally
+- Download this repo and all packages mentioned in `requirements.txt`
+- Go to terminal/command line and run the following command:
+  `streamlit run app.py`
