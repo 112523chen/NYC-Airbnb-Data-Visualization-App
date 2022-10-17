@@ -8,7 +8,7 @@ Create a web app that shows insight on New York City Airbnb listings with visual
 
 ## Python Libaries Used
 
-Pandas, Numpy, Matplotlib, and Streamlit
+[Pandas](https://pandas.pydata.org), [Numpy](https://numpy.org), [Matplotlib](https://matplotlib.org), and [Streamlit](https://streamlit.io)
 
 ## Data Source
 
